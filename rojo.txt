@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Aqui escribe Julieth Patiño :P
+=======
+no es naranja
+tampoco es verde
+es rojo
+Muy buena conclusion :)
+>>>>>>> 93738614120dad5b4bd3a1d94e384acbaaf22cdd
